@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formula One</string>
+    <string name="googleApiKey">AIzaSyADx9HTfg1vEtKt2KllxBhwpjB5qUvO52k</string>
+    <string name="googleEngineKey">000213537299717655806:fsqehiydnxg</string>
+    <string name="baseURL">http://ergast.com/api/f1/</string>
+    <string name="driverimage">driverImage</string>
+    <string name="driver_name">Name</string>
+    <string name="driver_date_of_birth">Date of birth: </string>
+    <string name="driver_start_number">Number: </string>
+    <string name="driver_abbreviation">Code: </string>
+    <string name="nationalityflag">nationalityFlag</string>
+    <string name="wikipedialink">wikipediaLink</string>
+    <string name="info_text">Click on a season to display the drivers, or press the info button to display its Wikipedia page</string>
+    <string name="season_info_text">Scroll for more drivers , Press on a Driver to know more about him !</string>
+    <string name="nationality">Nationality</string>
+
+</resources>
